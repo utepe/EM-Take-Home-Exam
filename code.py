@@ -1,9 +1,3 @@
-"""
-Note: if you do not have the matplotlib or numpy APIs installed
-In the command prompt of this folder directory, type:
-pip install -r requirements.txt
-"""
-
 import numpy as np
 import math as m
 import matplotlib.pyplot as plt
